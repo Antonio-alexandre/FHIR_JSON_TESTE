@@ -1,0 +1,50 @@
+| Tutorial: https://www.youtube.com/playlist?list=PLUr-PTsPYKV4SHhszovqJ3v4hEhRezqzo
+|
+| 1- Ir a https://www.hl7.org/fhir/downloads.html;
+| 2- Baixei o arquivo JSON Schema, extraí e abri no VSCode;
+| 3- Ctrl + Shift + P - Preferences: Open Workspace Settings(JSON);
+| 4- Editei o arquivo settings.JSON;
+| 5- Criei um arquivo patient.fhir.JSON;
+| 6- Editei o arquivo patient.fhir.json;
+| 7- Instalei o Imsomnia(By Kong);
+| 8- Postei o código(JSON) no seguinte servidor: http://hapi.fhir.org/baseR4/
+| 9- Corrigi os conflitos presentes;
+| 10- Usei post para enviar as informações ao webserver (Os códigos patient.fhir.json e observation.fhir.json);
+| 11- Usei o put pra editar as informações dentro do observation.fhir.json (Lembrar de declarar o id no código);
+| 12- GET - Mostra as informações salvas | POST - Salva informações novas | PUT - Edita informações já existentes;
+|
+|
+| Patient/2812935
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

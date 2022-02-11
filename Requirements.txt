@@ -1,0 +1,7 @@
+-> Temos que seguir o HL7 FHIR Release 4.
+
+O FHIR é o padrão para troca de dados em health care.
+
+Que é um subgrupo do HL7.
+
+www.hl7.org/fhir/

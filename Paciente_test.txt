@@ -1,0 +1,7 @@
+Name: Antonio Alexandre
+Gender: Male
+DOB: 9, July 2004
+Phone: 12345678
+Email: abcdefgh@gmail.com
+Adress: 100, Rua 123, Cidade B, Brasil
+Pincode: 765345

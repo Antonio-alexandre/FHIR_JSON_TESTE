@@ -1,0 +1,20 @@
+http://www.hl7.org/fhir/
+
+http://www.hl7.org/fhir/xml.html
+http://www.hl7.org/fhir/datatypes.html#primitive
+http://www.hl7.org/fhir/extensibility.html
+http://www.hl7.org/fhir/json.html
+
+
+https://www.hl7.org/fhir/patient-examples.html (Exemplos)
+----------------------------------------------------------------
+Observation-example-heart-rate
+https://www.hl7.org/fhir/observation-example-heart-rate.html
+https://www.hl7.org/fhir/observation-examples.html
+----------------------------------------------------------------
+ImplementationGuide - FHIR v4.0.1
+https://www.hl7.org/fhir/implementationguide-version-maps.html
+----------------------------------------------------------------
+Oxygen Saturation by Pulse Oximetry Example (DeviceMetricObservation profile)
+https://www.hl7.org/fhir/observation-example-satO2.html
+
