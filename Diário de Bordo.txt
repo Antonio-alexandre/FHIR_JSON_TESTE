@@ -10,35 +10,35 @@
 | 8- Postei o código(JSON) no seguinte servidor: http://hapi.fhir.org/baseR4/
 | 9- Corrigi os conflitos presentes;
 | 10- Usei post para enviar as informações ao webserver (Os códigos patient.fhir.json e observation.fhir.json);
-| 11- Usei o put pra editar as informações dentro do observation.fhir.json (Lembrar de declarar o id no código);
+| 11- Usei o put pra editar as informações dentro do observation.fhir.json (Lembrar de declarar o id no código), e troquei o status de "final" para "corrected";
 | 12- GET - Mostra as informações salvas | POST - Salva informações novas | PUT - Edita informações já existentes;
+| 13- _history (No fim da URL) mostra o histórico de modificações feitas no código original;
+| 14- Patient?name=nome (Pesquisa todos os pacientes através de um nome específico);
+| 15- https://www.hl7.org/fhir/patient.html - 8.1.12 - Todos os parâmetros de pesquisa para achar um paciente específico;
+| 16- https://www.hl7.org/fhir/search.html - Outros parâmetros de pesquisa;
+| 17- 
+| 18-
+| 19-
+| 20-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |
 |
 | Patient/2812935
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |
 |
 |
