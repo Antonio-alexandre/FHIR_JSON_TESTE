@@ -1,0 +1,33 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Catia"],
+            "family": "Silva"
+        }
+    ],
+    "gender": "female",
+    "birthDate": "2000-12-02",
+    "telecom": [
+        {
+            "value": "9887362417",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "tornadoalert@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "873, Avenida Atlantica"
+            ],
+            "city": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "postalCode": "22041901"
+        }
+    ]
+}

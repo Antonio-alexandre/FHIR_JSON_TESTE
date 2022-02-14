@@ -1,0 +1,6 @@
+Patient/2812935 - Patient / Joao Souza
+Patient/2814550 - Patient / Joao Souza
+Patient/2814551 - Patient / Catia Silva
+Observation/2814553 - Observation / Catia Silva
+Observation/2814557 - Observation2 / Catia Silva
+Patient/2814602 - Patient / Thiago Guedes
