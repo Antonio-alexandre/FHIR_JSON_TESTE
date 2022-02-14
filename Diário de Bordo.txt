@@ -16,15 +16,15 @@
 | 14- Patient?name=nome (Pesquisa todos os pacientes através de um nome específico);
 | 15- https://www.hl7.org/fhir/patient.html - 8.1.12 - Todos os parâmetros de pesquisa para achar um paciente específico;
 | 16- https://www.hl7.org/fhir/search.html - Outros parâmetros de pesquisa;
-| 17- 
-| 18-
-| 19-
+| 17- https://www.hl7.org/fhir/datatypes.html - 2.24.0.11 - Informação periódica pra ECG;
+| 18- Criei os arquivos para teste de novos pacientes, e usei o exemplo heartrate pra ver se conseguia enviar as informações específicas ao servidor;
+| 19- Criei um arquivo novo, para testar a funcionalidade do Bundle;
 | 20-
-|
-|
-|
-|
-|
+| 21-
+| 22-
+| 23-
+| 24-
+| 25-
 |
 |
 |
@@ -39,9 +39,9 @@
 |
 |
 | Patient/2812935
-|
-|
-|
+| Patient/2814550
+| Patient/2814551
+| Patient/2814602
 |
 |
 |
