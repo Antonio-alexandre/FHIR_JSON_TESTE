@@ -4,3 +4,7 @@ Patient/2814551 - Patient / Catia Silva
 Observation/2814553 - Observation / Catia Silva
 Observation/2814557 - Observation2 / Catia Silva
 Patient/2814602 - Patient / Thiago Guedes
+Practitioner/2815085 - Practitioner / Isabele Almeida
+
+Observation/2815087 - Observation Thiago Guedes
+
