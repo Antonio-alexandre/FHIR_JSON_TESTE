@@ -12,13 +12,7 @@
             "system": "http://loinc.org",
             "code": "8310-5",
             "display": "Body temperature"
-          },
-          {
-              "system": "http://loinc.org",
-              "code": "29463-7",
-              "display": "Body Weight"
           }
-          
         ],
         "text": "Body temperature"
         },
@@ -28,9 +22,10 @@
         "unit": "C",
         "system": "http://unitsofmeasure.org",
         "code": "Cel"
-    },
-    "valueString": "Peso = 50 Kg",
-    "display": "Body Weight",
+    	},
+        
+	
+    "display":"Body temperature",
     
     "category": [
       {

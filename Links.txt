@@ -17,4 +17,7 @@ https://www.hl7.org/fhir/implementationguide-version-maps.html
 ----------------------------------------------------------------
 Oxygen Saturation by Pulse Oximetry Example (DeviceMetricObservation profile)
 https://www.hl7.org/fhir/observation-example-satO2.html
-
+----------------------------------------------------------------
+Observation-example-sample-data
+https://www.hl7.org/fhir/observation-example-sample-data.html
+----------------------------------------------------------------

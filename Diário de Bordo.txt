@@ -20,8 +20,8 @@
 | 18- Criei os arquivos para teste de novos pacientes, e usei o exemplo heartrate pra ver se conseguia enviar as informações específicas ao servidor;
 | 19- Criei um arquivo novo, para testar a funcionalidade do Bundle;
 | 20- Copiei o exemplo do ECG, e já comecei a editar e a pesquisar a lógica de funcionamento;
-| 21- 
-| 22-
+| 21- Enviei o arquivo modificado do ECG (ekgtest2.fhir.json) para o servidor, com algumas modificações (adição de peso e temperatura);
+| 22- 
 | 23-
 | 24-
 | 25-
