@@ -1,0 +1,54 @@
+{
+  "resourceType": "Observation",
+  "id": "vitals-panel",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/vitalsigns"
+    ]
+  },
+  "text": {
+    "status": "generated"
+      },
+  "status": "final",
+  "category": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+          "code": "vital-signs",
+          "display": "Vital Signs"
+        }
+      ],
+      "text": "Vital Signs"
+    }
+  ],
+  "code": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "85353-1",
+        "display": "Vital signs panel"
+      }
+    ],
+    "text": "Vital signs Panel"
+  },
+  "subject": {
+    "reference": "Patient/2812935",
+    "display": "Joao Souza"
+  },
+  "effectiveDateTime": "2022-02-16",
+  "hasMember": [
+    {
+      "reference": "Observation/2815778",
+      "display": "SpO2"
+    },
+    {
+      "reference": "Observation/2815777",
+      "display": "Body Temperature"
+    },
+    {
+      "reference": "Observation/2815775",
+      "display": "ECG"
+    }
+  ]
+}

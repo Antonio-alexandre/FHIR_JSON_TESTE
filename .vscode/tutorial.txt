@@ -1,0 +1,7 @@
+How to run the json archives:
+
+1 - Download Insomnia or Postman and create one request;
+2 - Open the IDs File;
+3 - Take any ID, and go to the (1) interface;
+4 - Make get requests using the following link:
+http://hapi.fhir.org/baseR4/(Element Ex: Observation/Patient/Device)/(ID Ex:2815773)

@@ -1,0 +1,13 @@
+{
+    "resourceType": "Device",
+    "id": "oxim",
+    "text": {
+      "status": "generated"
+    },
+    "identifier": [
+      {
+        "system": "http://goodcare.org/devicemetric/id",
+        "value": "345675"
+      }
+    ]
+  }

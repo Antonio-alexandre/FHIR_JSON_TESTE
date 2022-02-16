@@ -4,11 +4,11 @@
         {
             "use": "official",
             "given": ["Joao"],
-            "family": "Souza"
+            "family": "Paulo"
         }
     ],
     "gender": "male",
-    "birthDate": "2002-05-30",
+    "birthDate": "2002-09-25",
     "telecom": [
         {
             "value": "9876543210",
@@ -23,11 +23,36 @@
     "address": [
         {
             "line": [
-                " 2589, Avenida Afonso de Sampaio e Sousa"
+                " 2560, Avenida Afonso de Sampaio e Sousa"
             ],
             "city": "Sao Paulo",
             "state": "Sao Paulo",
             "postalCode": "08270001"
         }
-    ]
+    ],
+    "valueCodeableConcep": {
+        "coding": [
+          {
+            "system": "http://loinc.org",
+            "code": "8310-5",
+            "display": "Body temperature"
+          },
+          {
+              "system": "http://loinc.org",
+              "code": "29463-7",
+              "display": "Body Weight"
+          }
+          
+        ],
+        "text": "Body temperature"
+        },
+
+      "valueQuantity": {
+        "value": 36,
+        "unit": "C",
+        "system": "http://unitsofmeasure.org",
+        "code": "Cel"
+    },
+    "valueString": "Peso = 50 Kg",
+    "display": "Body Weight"
 }
