@@ -21,3 +21,6 @@ https://www.hl7.org/fhir/observation-example-satO2.html
 Observation-example-sample-data
 https://www.hl7.org/fhir/observation-example-sample-data.html
 ----------------------------------------------------------------
+Resource DiagnosticReport - Examples
+https://www.hl7.org/fhir/diagnosticreport-examples.html
+----------------------------------------------------------------
