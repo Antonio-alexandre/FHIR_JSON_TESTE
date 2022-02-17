@@ -1,0 +1,33 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Joao"],
+            "family": "Souza"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "2002-05-30",
+    "telecom": [
+        {
+            "value": "9876543210",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "tornadoalert@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                " 2589, Avenida Afonso de Sampaio e Sousa"
+            ],
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "postalCode": "08270001"
+        }
+    ]
+}

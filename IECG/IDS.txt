@@ -1,0 +1,20 @@
+Patient/2812935 - Patient / Joao Souza
+Patient/2814550 - Patient / Joao Souza
+Patient/2814551 - Patient / Catia Silva
+Observation/2814553 - Observation / Catia Silva
+Observation/2814557 - Observation2 / Catia Silva
+Patient/2814602 - Patient / Thiago Guedes
+Practitioner/2815085 - Practitioner / Isabele Almeida
+
+Observation/2815087 - Observation Thiago Guedes
+Observation/2815305 - Observation EKG Thiago Guedes (Updated);
+Observation/2815775 - Observation EKG Joao Souza;
+Observation/2815777 - Temperature Joao Souza;
+Observation/2815778 - Oximetry Joao Souza;
+Observation/2815779 - Vital signs Panel Joao Souza;
+
+
+Device/2815773 - Device(Oxim);
+DeviceMetric/2815774 - DeviceMetric(Oxim);
+
+
