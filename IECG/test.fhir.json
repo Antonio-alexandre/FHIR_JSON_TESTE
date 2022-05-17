@@ -1,0 +1,36 @@
+{
+    "resourceType": "Patient",
+    "id": "A123",
+    "name": [
+        {
+            "use": "official",
+            "given": [
+                "Julio"
+            ],
+            "family": "Pereira"
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1999-08-30",
+    "telecom": [
+        {
+            "value": "9876543210",
+            "use": "mobile",
+            "system": "phone"
+        },
+        {
+            "system": "email",
+            "value": "tornadoalert@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "Rua um"
+            ],
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "postalCode": "0000000"
+        }
+    ]
+}

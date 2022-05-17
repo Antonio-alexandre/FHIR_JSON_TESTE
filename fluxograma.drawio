@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Esboço Principal" id="gY-7vrEUTvwIyoiWlh-5">
-        <mxGraphModel dx="1186" dy="800" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="650" dy="488" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="7qCP1VUS-daBsZMcQC1O-0"/>
                 <mxCell id="7qCP1VUS-daBsZMcQC1O-1" parent="7qCP1VUS-daBsZMcQC1O-0"/>
@@ -201,7 +201,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="qQe4sB-NspFOXT0RWF73" name="Esboço">
-        <mxGraphModel dx="1186" dy="800" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="650" dy="488" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -298,7 +298,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="c5eQmipD6wHeNh4ohFVG" name="Page-4">
-        <mxGraphModel dx="1186" dy="800" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="650" dy="488" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="Cp2f4sA8zX2eSTBaF7nA-0"/>
                 <mxCell id="Cp2f4sA8zX2eSTBaF7nA-1" parent="Cp2f4sA8zX2eSTBaF7nA-0"/>
