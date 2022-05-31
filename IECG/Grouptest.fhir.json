@@ -1,6 +1,5 @@
 {
     "resourceType": "Group",
-    "id": "G123",
     "text": {
         "status": "additional"
     },
@@ -9,22 +8,28 @@
     "actual": "true",
     "name": "Patient group for organization1",
     "managingEntity": {
-        "reference": "Organization/123",
+        "reference": "Organization/3042017",
         "type": "Organization"
     },
     "member": [
         {
             "entity": {
-                "reference": "Patient/2812935"
-            },
-            "entity": {
-                "reference": "Patient/2814550"
-            },
+                "reference": "Patient/2814602"
+            }
+        },
+        {
             "entity": {
                 "reference": "Patient/2814551"
-            },
+            }
+        },
+        {
             "entity": {
-                "reference": "Patient/2814602"
+                "reference": "Patient/2814550"
+            }
+        },
+        {
+            "entity": {
+                "reference": "Patient/2812935"
             }
         }
     ]

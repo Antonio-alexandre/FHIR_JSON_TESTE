@@ -1,0 +1,45 @@
+{
+    "resourceType": "Organization",
+    "id": "f203",
+    "identifier": [
+        {
+            "use": "official",
+            "type": {
+                "text": "Organização de Saúde"
+            },
+            "system": "https://orgqualquer.com.br",
+            "value": "Uma org. qualquer"
+        }
+    ],
+    "active": true,
+    "type": [
+        {
+            "coding": [
+                {
+                    "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                    "code": "prov",
+                    "display": "Healthcare Provider"
+                }
+            ]
+        }
+    ],
+    "name": "Uma organização de saúde",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "+31107040704",
+            "use": "work"
+        }
+    ],
+    "address": [
+        {
+            "use": "work",
+            "line": [
+                "Rua Alvorada"
+            ],
+            "city": "Santa Rita do Sapucaí",
+            "postalCode": "37540000",
+            "country": "BR"
+        }
+    ]
+}
