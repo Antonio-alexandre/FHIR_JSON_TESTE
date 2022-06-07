@@ -1,0 +1,23 @@
+{
+    "resourceType": "List",
+    "status": "current",
+    "mode": "snapshot",
+    "title": "Exames não laudados",
+    "entry": [
+        {
+            "item": {
+                "reference": "Observation/obs1"
+            }
+        },
+        {
+            "item": {
+                "reference": "Observation/obs2"
+            }
+        },
+        {
+            "item": {
+                "reference": "Observation/obs3"
+            }
+        }
+    ]
+}

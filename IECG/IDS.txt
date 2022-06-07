@@ -19,6 +19,7 @@ Device/2815773 - Device(Oxim);
 DeviceMetric/2815774 - DeviceMetric(Oxim);
 
 Organization/3042017 - OrganizationTeste;
+Organization/3086156 - OrganizationTeste1;
 
 Group/3042018 - Group(Pacientes para Organization);
 

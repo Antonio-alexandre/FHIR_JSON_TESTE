@@ -1,14 +1,13 @@
 {
     "resourceType": "Organization",
-    "id": "f203",
     "identifier": [
         {
             "use": "official",
             "type": {
-                "text": "Organização de Saúde"
+                "text": "Organization1"
             },
             "system": "https://orgqualquer.com.br",
-            "value": "Uma org. qualquer"
+            "value": "An organization"
         }
     ],
     "active": true,
@@ -23,7 +22,7 @@
             ]
         }
     ],
-    "name": "Uma organização de saúde",
+    "name": "Organization1",
     "telecom": [
         {
             "system": "phone",

@@ -1,0 +1,29 @@
+{
+    "resourceType": "Group",
+    "type": "device",
+    "name": "Group of Devices for Organization1",
+    "actual": true,
+    "member": [
+        {
+            "entity": {
+                "reference": "Device/dev1"
+            }
+        },
+        {
+            "entity": {
+                "reference": "Device/dev2"
+            },
+            "inactive": true
+        },
+        {
+            "entity": {
+                "reference": "Device/dev3"
+            }
+        },
+        {
+            "entity": {
+                "reference": "Device/dev4"
+            }
+        }
+    ]
+}
